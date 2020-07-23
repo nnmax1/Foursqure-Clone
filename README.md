@@ -6,6 +6,6 @@
 <li>The app utilizes Apple MapKit to display locations </li>
 <li>Link to actual Foursquare: </li>
   <ul> 
-    <li> https://play.google.com/store/apps/details?id=com.joelapenna.foursquared&hl=en_US</li>
+    <li>https://apps.apple.com/us/app/foursquare-city-guide/id306934924</li>
   </ul>
   
